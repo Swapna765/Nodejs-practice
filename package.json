@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-practice",
+  "version": "1.0.0",
+  "description": "It is a node js practice code",
+  "homepage": "https://github.com/Swapna765/Nodejs-practice#readme",
+  "bugs": {
+    "url": "https://github.com/Swapna765/Nodejs-practice/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Swapna765/Nodejs-practice.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
